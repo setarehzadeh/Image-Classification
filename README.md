@@ -7,5 +7,5 @@ Breast cancer is now commonly recognised as the second-leading cause of death am
 In this work, the most important steps were the preprocessing levels.
 Five different scenarios have been designed to evaluate different preprocessing techniques and check them with using two different architectures of Convolutional Neural Networks.
 <br>At first, images have been read. Afterwards, class weight technique and rotation augmentation have been applied in order to make our classes balanced. In the last two scenarios image, contrast enhancement with rotation augmentation and class weight technique have been combined.
-<br><br> All the codes for preprocessing are in the Preprocessing file.
+<br><br> The full report paper of this work named as Breast Tumor Classifying Project and all the codes for preprocessing are in the Preprocessing file.
 
