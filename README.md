@@ -4,3 +4,5 @@ Breast cancer is now commonly recognised as the second-leading cause of death am
 <br><br>The proposed system offers good classification rates. These techniques were applied on the MIAS dataset. Combining image contrast enhancement with class weight technique applied on a 4-layer convolutional neural network showed great performance and promising outcomes using 10-fold cross validation. For the best method, the accuracy, f-measure, recall, and precision reached **80.99%**, **81.07%**, **80.99%**, and **80.99%** respectively. <br>According to the findings of this study, CNNs offer a lot of potential in the field of intelligent medical image diagnosis.
 
 <br><br> 
+## Codes
+The codes for all the steps including preprocessing and CNN can be found in this repository.
